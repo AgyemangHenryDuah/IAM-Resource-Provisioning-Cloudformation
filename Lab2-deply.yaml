@@ -1,0 +1,7 @@
+template-file-path: Git-template.yaml
+parameters:
+  S3UserEmail: s3-user@gmail.com
+  LambdaS3Bucket: lab1-test-nucket
+  EC2UserEmail: ec2-user@gmail.com
+  TemporaryPassword: '****'
+tags: {}
